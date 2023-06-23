@@ -27,7 +27,7 @@ else:
 # 	elif player_2 == "paper":
 # 		print(f"\nPlayer 1 chose: {player_1}\nPlayer 2 chose: {player_2}\nPlayer 2 wins!")
 # elif player_1 == "paper":
-# 	if playe_2 == "rock":
+# 	if player_2 == "rock":
 # 		print(f"\nPlayer 1 chose: {player_1}\nPlayer 2 chose: {player_2}\nPlayer 1 wins!")
 # 	elif player_2 == "scissors":
 # 		print(f"\nPlayer 1 chose: {player_1}\nPlayer 2 chose: {player_2}\nPlayer 2 wins!")
