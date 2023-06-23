@@ -29,9 +29,9 @@ sick_days = randint(0, 10)
 calling_in_sick = None  # set this to True or False with Boolean Logic and Conditionals!
 
 # YOUR CODE GOES HERE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-if actually_sick == True and sick_days > 0:
+if actually_sick and sick_days > 0:
     calling_in_sick = True
-elif kinda_sick == True and hate_your_job == True and sick_days > 0:
+elif kinda_sick and hate_your_job and sick_days > 0:
     calling_in_sick = True
 else:
     calling_in_sick = False
