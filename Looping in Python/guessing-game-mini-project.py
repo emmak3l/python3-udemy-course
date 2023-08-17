@@ -1,3 +1,6 @@
+# NOTE: I absolutely overengineered this solution, this was my attempt before watching the solution video
+# I will publish a more streamlined solution for this in a new file
+
 # INSTRUCTIONS FOR GUESSING GAME MINI PROJECT:
 # handle user guesses
 #	if they guess correct, tell them they won
