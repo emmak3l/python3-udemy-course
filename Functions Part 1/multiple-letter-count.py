@@ -11,5 +11,3 @@
 # flesh out multiple_letter count:
 def multiple_letter_count(word):
 	return {letter: word.count(letter) for letter in word}
-
-print(multiple_letter_count("bloodboil"))
