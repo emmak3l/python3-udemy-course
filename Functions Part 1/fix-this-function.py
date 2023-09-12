@@ -12,5 +12,3 @@ def count_dollar_signs(word):
         if char == '$':
             count += 1
     return count
-
-print(count_dollar_signs("$uper $ize"))
