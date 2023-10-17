@@ -24,5 +24,5 @@ print(fav_foods("ice cream", "burrito")) # Invalid! First argument must be 'burr
 def add_to_ten(num1, num2):
 	return num1 + num2
 
-print(add_to_ten(10, 12)) #22
+print(add_to_ten(10, 12)) # 22
 print(add_to_ten(1, 2)) # Invalid! First argument must be 10.
